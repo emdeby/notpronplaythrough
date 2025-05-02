@@ -6,7 +6,7 @@ My playtrough of one of the internets hardest riddles "notpron" will be document
 <!-- Progressbar -->
 <div align="center">
 
-PROGRESS
+### PROGRESS
 <br>
 ![Progress](https://progress-bar.xyz/35/?style=for-the-badge&width=800&progress_color=3aa3ff)
 
