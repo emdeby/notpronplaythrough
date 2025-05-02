@@ -4,7 +4,7 @@ My playtrough of one of the internets hardest riddles "notpron" will be document
 <br>
 
 <!-- Progressbar -->
-Progress:
+<h2><p align="center">PROGRESS</p></h2>
 <br>
 ![Progress](https://progress-bar.xyz/35/?style=for-the-badge&width=800&progress_color=3aa3ff)
 
