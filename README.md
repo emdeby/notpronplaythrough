@@ -1,6 +1,12 @@
 # [`notpron`](https://notpron.com/notpron/) aka the hardest riddle of the internet
 
+> [!WARNING]
+> **Spoilers ahead!** If you're planning on solving the riddle yourself I advise you to be careful.
+<br>
+
 <div align="center">
+
+![logo](assets/notpron_logo.png)
   
 ### ABOUT
 
@@ -16,7 +22,7 @@ As of October 2020, **only 100 people** have completed the game, **out of 20 mil
 
 ### PROGRESS
 
-![Progress](https://progress-bar.xyz/35/?style=for-the-badge&width=875&progress_color=3aa3ff)
+![Progress](https://progress-bar.xyz/35/?style=minimal-matte&width=875&progress_color=3aa3ff)
 <br>
 [`Level Progresssheet`](https://docs.google.com/spreadsheets/d/17xqEx-dCnFAxLlibAF48caXfEq-X7fRX_ucbvxFb8D0/edit?usp=sharing)
 
