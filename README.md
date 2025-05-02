@@ -29,4 +29,4 @@ As of October 2020, **only 100 people** have completed the game, **out of 20 mil
 </div>
 
 <!-- Sources -->
-[^src1]: https://en.wikipedia.org/wiki/Notpron#cite_note-:0-6
+[^src1]: https://en.wikipedia.org/wiki/Notpron#History
