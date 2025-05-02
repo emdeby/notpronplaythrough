@@ -1,4 +1,4 @@
-# notpronplaythrough
+# notpron
 
 My playtrough of one of the internets hardest riddles "notpron" will be documented here!
 <br>
