@@ -24,7 +24,10 @@ As of October 2020, **only 100 people** have completed the game, **out of 20 mil
 
 ![Progress](https://progress-bar.xyz/13/?style=minimal-matte&width=875&progress_color=3aa3ff)
 <br>
-[`Level Progresssheet`](https://docs.google.com/spreadsheets/d/17xqEx-dCnFAxLlibAF48caXfEq-X7fRX_ucbvxFb8D0/edit?usp=sharing)
+<br>
+View my level progesssheet [here](https://docs.google.com/spreadsheets/d/17xqEx-dCnFAxLlibAF48caXfEq-X7fRX_ucbvxFb8D0/edit?usp=sharing)
+
+<br>
 
 </div>
 
