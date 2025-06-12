@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![logo](assets/notpron_logo.png)
+[![logo](assets/notpron_logo.png)](https://notpron.com/notpron/)
   
 ### ABOUT
 
